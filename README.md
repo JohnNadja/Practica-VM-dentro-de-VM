@@ -22,7 +22,7 @@ En el caso de Azure, una máquina virtual es un servicio de tipo [IaaS](https://
 Una vez creada la cuenta de Azure, se debe crear una máquina virtual usando una plantilla de máquina virtual. Para ello, se debe seleccionar la plantilla de [máquina virtual](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FVirtualMachines) que se desea usar y seguir los siguientes pasos:
 
 1. Una vez hecho el login, se debe seleccionar la opción [Máquina virtual](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FVirtualMachines) y seleccionar la opción de *Crear* > *Máquina Virtual de Azure*. Ésta será la primera pantalla que se le mostrará.
-![](/PrácticaVMenVM/images/1.1.png)
+![1.1](PrácticaVMenVM/images/1.1.png)
 
 2. Aparecerá una nueva ventana, aquí sólo nos importa lo siguiente:
 ![](/PrácticaVMenVM\images\2.1.png)
