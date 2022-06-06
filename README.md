@@ -62,6 +62,7 @@ Se espera a que se confirme la creación la segunda máquina virtual hasta llega
 
 Hasta el momento, ya hemos creado las dos máquinas virtuales.
 
+---
 ## Acceso a las Máquinas Virtuales
 
 Para acceder a las máquinas virtuales, se debe de regresar a inicio del Portal de Azure. Ahí, se busca el grupo de recursos de la primera máquina virtual.
@@ -74,6 +75,7 @@ Para acceder a las máquinas virtuales, se debe de regresar a inicio del Portal 
 - Descargamos el archivo de configuración de la VM-1:
     ![](https://github.com/JohnNadja/Practica-VM-dentro-de-VM/blob/main/images/6.4.png)
 
+---
 ## Instalación.
 En esta práctica, se instalará una aplicación en la VM-1 en una máquina real con Sistema Operativo de Windows. Para ello, se sugiere obtener la siguiente aplicación (auqneu por defecto se tiene ya instalado una aplicación para ejecutar escritorios remotos en Windows):
 ![](https://github.com/JohnNadja/Practica-VM-dentro-de-VM/blob/main/images/7.1.png)
@@ -97,6 +99,7 @@ Se escribe el usuaio y contraseña de la VM2 y se presiona en *OK* para conectar
 # Listo, ya están las dos máquinas virtuales, una dentro de la otra.
 ![](https://github.com/JohnNadja/Practica-VM-dentro-de-VM/blob/main/images/8.5.png)
 
+----
 # **⚠Importante⚠**: 
 ### Recordar apagar las Máquinas Virtuales en caso de no ocuparlas.
 - En el grupo de recursos de la VM1, se busca la VM1.
