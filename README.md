@@ -98,7 +98,7 @@ Se escribe el usuaio y contraseña de la VM2 y se presiona en *OK* para conectar
 ![](https://github.com/JohnNadja/Practica-VM-dentro-de-VM/blob/main/images/8.5.png)
 
 # **⚠Importante⚠**: 
-Recordar apagar las Máquinas Virtuales en caso de no ocuparlas.
+###Recordar apagar las Máquinas Virtuales en caso de no ocuparlas.
 - En el grupo de recursos de la VM1, se busca la VM1.
 ![](https://github.com/JohnNadja/Practica-VM-dentro-de-VM/blob/main/images/9.1.png)
 - Se busca la opción de **Detener**. Aplicar también a la segunda máquina virtual.
