@@ -46,9 +46,11 @@ Una vez creada la cuenta de Azure, se debe crear una máquina virtual usando una
 ![](https://github.com/JohnNadja/Practica-VM-dentro-de-VM/blob/main/images/4.1.png)
     - Esperar a que se carguen los recursos de la Máquina Virtual.
     ![](https://github.com/JohnNadja/Practica-VM-dentro-de-VM/blob/main/images/4.2.png)
-    Cuando haya finalizado el proceso, se mostrará la pantalla de la máquina virtual creada.
+
+    - Cuando haya finalizado el proceso, se mostrará la pantalla de la máquina virtual creada.
     ![](https://github.com/JohnNadja/Practica-VM-dentro-de-VM/blob/main/images/4.3.png)
-    Esta es nuestra primera máquina virtual creada.
+
+**Esta es nuestra primera máquina virtual creada.**
 
 ### Segunda parte: Crear una VM-2
 
